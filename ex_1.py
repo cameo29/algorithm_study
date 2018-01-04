@@ -20,3 +20,4 @@ a = lambda: sys.stdin.readline()
 b = int(a())
 for i in range(b):
     print("Hello Algospot!")
+    
